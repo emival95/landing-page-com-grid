@@ -22,7 +22,7 @@ Os usuários devem ser capazes de:
 - Veja os estados de foco para todos os elementos interativos na página
 Captura de tela
 ## Design de Área de Trabalho
-
+[<img src="./src/images/Animação3.gif">]
 
 ## Design móvel
 
