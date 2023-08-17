@@ -1,4 +1,4 @@
-# Frontend Mentor - Página inicial do Huddle com solução de seção introdutória única.
+<h1 align="center">Frontend Mentor - Página inicial do Huddle com solução de seção introdutória única.</h1>
 
 Esta é uma solução para a página inicial do Huddle com um único desafio de seção introdutória no Frontend Mentor . Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.🚀
 
